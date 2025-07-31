@@ -2,17 +2,17 @@
 
 ## 📚 Project Title: Blog Website
 
-This is a simple and interactive blog website developed as part of the **CodeClause Internship Program (July 2025 Batch)**. The platform allows users to add, edit, delete blog posts, upload images, categorize articles, and add comments.
+This is a simple and interactive blog website developed as part of the **CodeClause Internship Program (July 2025 Batch)**. The website allows users to add, edit, and delete blog posts, upload images, categorize articles, and add comments.
 
 ---
 
 ## 🚀 Features
-- Add New Blog Posts (Title, Content, Image, Category)
-- Edit & Delete existing blog posts
-- Filter posts by Category (Tech / Travel)
-- Comment Section per post (stored in LocalStorage)
-- Persistent data using LocalStorage (no backend)
-- Clean and responsive UI
+- Add New Blog Posts with Title, Content, Image, and Category.
+- Edit and Delete existing posts.
+- Filter articles by Category (Tech / Travel).
+- Comment Section per post (stored in LocalStorage).
+- Persistent data storage using LocalStorage (data remains after refresh).
+- Simple and clean responsive User Interface.
 
 ---
 
@@ -20,7 +20,7 @@ This is a simple and interactive blog website developed as part of the **CodeCla
 - HTML
 - CSS
 - JavaScript
-- LocalStorage
+- LocalStorage (for data persistence)
 
 ---
 
@@ -29,7 +29,9 @@ This is a simple and interactive blog website developed as part of the **CodeCla
 ---
 
 ## 📑 Project Summary
-This project was built to enhance skills in DOM manipulation, event handling, and client-side data storage using LocalStorage. It also focuses on CRUD operations and basic UI design.
+This project was built to enhance my understanding of **DOM Manipulation**, **Event Handling**, and client-side storage using **LocalStorage**. It showcases essential CRUD operations and a simple yet functional blog platform UI.
+
+---
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/SaicharanBagadi)
@@ -38,4 +40,5 @@ This project was built to enhance skills in DOM manipulation, event handling, an
 ---
 
 ## 🏷️ Tags
-`#CodeClauseInternship` `#WebDevelopment` `#HTML` `#CSS` `#JavaScript` `#BlogProject`
+`#CodeClauseInternship` `#WebDevelopment` `#HTML` `#CSS` `#JavaScript` `#BlogProject` `#FrontendDevelopment`
+
